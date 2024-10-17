@@ -1,0 +1,21 @@
+{
+    "name": "az13js/auto-inc-id",
+    "description": "A PHP package to generate auto-incremented IDs using shared memory or file.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "az13js",
+            "email": "1654602334@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4"
+    }
+}
